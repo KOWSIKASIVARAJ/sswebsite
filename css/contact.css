@@ -1,0 +1,186 @@
+.back {
+    background: url(image/8033685_12232\ 2.png);
+  }
+  .map-marker-alt-icon {
+    overflow: hidden;
+  }
+  .our-main-office {
+    letter-spacing: 0.01em;
+    line-height: 26px;
+  }
+  .sampalli-metturdam-salem {
+    font-size: 18px;
+    letter-spacing: 0.01em;
+    line-height: 26px;
+    font-weight: 500;
+    color: #3b3b3b;
+    display: inline-block;
+    width: 217px;
+  }
+  .map-marker-alt-parent {
+    border-radius: 6px;
+    background-color: #efffef;
+    width: 100%;
+    height: 238px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 22px;
+    color: #222;
+    font-family: Raleway;
+  }
+  
+  .contact-info {
+    font-size: 38px;
+    letter-spacing: 0.01em;
+    line-height: 50px;
+    font-weight: 600;
+    font-family: Raleway;
+    color: #d7d7d7;
+    text-align: left;
+  }
+  .contact-info-parent {
+    background-color: #0e0f0f;
+    width: 100%;
+    /* height: 558px; */
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+    color: #e1e1e1;
+    font-family: Raleway;
+  }
+  /* form */
+  .inputbox {
+    position: relative;
+    margin: 30px 0;
+    max-width: 310px;
+    border-bottom: 2px solid #fff;
+  }
+  
+  .inputbox label {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1rem;
+    pointer-events: none;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  input:focus ~ label,
+  input:valid ~ label {
+    top: -5px;
+  }
+  
+  .inputbox input {
+    width: 100%;
+    height: 60px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    padding: 0 35px 0 5px;
+    color: #fff;
+  }
+  
+  .inputbox ion-icon {
+    position: absolute;
+    right: 8px;
+    color: #fff;
+    font-size: 1.2rem;
+    top: 20px;
+  }
+  .request-a-quotte-parent {
+    position: relative;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    font-family: Raleway;
+    background: #174b52;
+  }
+  
+  /* end */
+  .submit-parent {
+    border-radius: 8px;
+    background-color: #f3f3f3;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-family: Raleway;
+  }
+  .all-solution-in {
+    position: relative;
+    font-size: 42px;
+    letter-spacing: 0.01em;
+    font-weight: 600;
+    font-family: Raleway;
+    background: linear-gradient(
+      90.56deg,
+      #0e60ab,
+      rgba(13, 127, 163, 0.79) 21.32%,
+      rgba(3, 29, 79, 0.82)
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+  }
+  .be-the-first {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Raleway;
+    color: #000;
+    text-align: left;
+  }
+  .like-us-on {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Raleway;
+    color: #379ca4;
+    text-align: left;
+  }
+  .footer {
+    background: url(image/footers.jpg);
+    background-size: cover;
+  }
+  .about-search-soft {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Raleway;
+    color: #f3f3f3;
+    text-align: left;
+  }
+  .about-us {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Raleway;
+    color: #f3f3f3;
+    text-align: left;
+  }
+  .foot {
+    font-weight: 500;
+  }
+  .searchsoft-technologies-pvt {
+    font-weight: 500;
+    font-family: Raleway;
+  }
+  .searchsoft-technologies-pvt-container {
+    font-size: 20px;
+    color: #f3f3f3;
+    text-align: left;
+    font-family: Roboto;
+  }
+  

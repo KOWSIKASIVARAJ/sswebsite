@@ -1,0 +1,235 @@
+.back {
+    background: url(image/3439372_61769\ 1.png);
+    background-size: cover;
+  }
+  .make-your-website {
+    font-size: 28px;
+    font-weight: 500;
+    font-family: Raleway;
+    color: #383838;
+    text-align: left;
+  }
+  .hosting-domain {
+    color: #1ba0af;
+  }
+  .best-web-hosting-container {
+    font-size: 56px;
+    letter-spacing: 0.06em;
+    line-height: 60px;
+    font-weight: 600;
+    font-family: Raleway;
+    text-align: left;
+    display: inline-block;
+    /* width: 707px; */
+    color: #343434;
+  }
+  .lorem-ipsum-dolor {
+    font-size: 21px;
+    letter-spacing: 0.02em;
+    line-height: 32px;
+    font-family: Raleway;
+    color: #343434;
+    text-align: left;
+    display: inline-block;
+  }
+  .discover-more {
+    border-radius: 10px;
+    background-color: #1ba0af;
+    box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.15);
+    /* width: 100%; */
+    /* height: 72px; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 26px;
+    color: #fff;
+    font-family: Raleway;
+    border: none;
+  }
+  .discover-more:hover {
+    background-color: #a9eff7;
+    border: 2px solid #1ba0af;
+    color: #1ba0af;
+  }
+  .all-solution-in {
+    position: relative;
+    font-size: 42px;
+    letter-spacing: 0.01em;
+    font-weight: 600;
+    font-family: Raleway;
+    background: linear-gradient(
+      90.56deg,
+      #0e60ab,
+      rgba(13, 127, 163, 0.79) 21.32%,
+      rgba(3, 29, 79, 0.82)
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  .com {
+    background: url(image/service/Component\ 32.png);
+    height: 35px;
+    background-repeat: no-repeat;
+  }
+  .com:hover {
+    background: url(image/service/Property\ 1=com_logo\ 1.png);
+    height: 35px;
+    background-repeat: no-repeat;
+  }
+  .in {
+    background: url(image/service/Component\ 38.png);
+    height: 83px;
+    background-repeat: no-repeat;
+  }
+  .in:hover {
+    background: url(image/service/Property\ 1=DotIn_ccTLD_logo\ 2.png);
+    height: 83px;
+    background-repeat: no-repeat;
+  }
+  .net {
+    background: url(image/service/Component\ 33.png);
+    height: 45px;
+    background-repeat: no-repeat;
+  }
+  .net:hover {
+    background: url(image/service/Property\ 1=Net-PNG-HD\ 1.png);
+    height: 45px;
+    background-repeat: no-repeat;
+  }
+  .org {
+    background: url(image/service/Component\ 35.png);
+    height: 76px;
+    background-repeat: no-repeat;
+  }
+  .org:hover {
+    background: url(image/service/Property\ 1=ORG_RGB\ 1.png);
+    height: 76px;
+    background-repeat: no-repeat;
+  }
+  .link {
+    background: url(image/service/Component\ 34.png);
+    height: 65px;
+    background-repeat: no-repeat;
+  }
+  .link:hover {
+    background: url(image/service/Property\ 1=link\ 1.png);
+    height: 65px;
+    background-repeat: no-repeat;
+  }
+  .bin {
+    background: url(image/service/Component\ 39.png);
+    height: 50px;
+    background-repeat: no-repeat;
+  }
+  .bin:hover {
+    background: url(image/service/Property\ 1=DotBiz_logo\ 1.png);
+    height: 50px;
+    background-repeat: no-repeat;
+  }
+  .no-matter-your {
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-family: Raleway;
+    color: #545454;
+    text-align: left;
+  }
+  .wordpress-174881-1-icon {
+    object-fit: cover;
+  }
+  .wordpress-hosting {
+    letter-spacing: 0.01em;
+    font-weight: 600;
+  }
+  .your-site-will {
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    color: #5e5e5e;
+    text-align: center;
+    display: inline-block;
+    width: 393px;
+  }
+  .wordpress-174881-1-parent {
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 2px 8px 18px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    /* height: 431px; */
+    overflow: hidden;
+    text-align: center;
+    font-size: 34px;
+    color: #000;
+    font-family: Raleway;
+  }
+  .business-mail {
+    letter-spacing: 0.01em;
+    font-weight: 600;
+  }
+  .simple-and-easy {
+    font-size: 25px;
+    letter-spacing: 0.01em;
+    line-height: 36px;
+    font-weight: 500;
+    color: #454545;
+    display: inline-block;
+    /* width: 489px; */
+  }
+  .business-mail-parent {
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    /* height: 273px; */
+    overflow: hidden;
+    text-align: left;
+    font-size: 48px;
+    color: #06aaa0;
+    font-family: Raleway;
+  }
+  .footer {
+    background: url(image/footers.jpg);
+    background-size: cover;
+  }
+  .about-search-soft {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: Raleway;
+    color: #f3f3f3;
+    text-align: left;
+  }
+  .about-us {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Raleway;
+    color: #f3f3f3;
+    text-align: left;
+  }
+  .foot {
+    font-weight: 500;
+  }
+  .searchsoft-technologies-pvt {
+    font-weight: 500;
+    font-family: Raleway;
+  }
+  .searchsoft-technologies-pvt-container {
+    font-size: 20px;
+    color: #f3f3f3;
+    text-align: left;
+    font-family: Roboto;
+  }
+  
